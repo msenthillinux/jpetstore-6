@@ -12,7 +12,7 @@
 #    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
-#
+#   Senthil Kumar
 
 FROM openjdk:17.0.2
 COPY . /usr/src/myapp
